@@ -9,6 +9,12 @@ section.resume-section {
     }
   }
 }
+.projects-section img {
+  height: 200px;
+  width: 100%;  
+  object-fit: cover;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
